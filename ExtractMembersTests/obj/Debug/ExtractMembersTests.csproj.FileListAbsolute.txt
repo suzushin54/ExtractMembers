@@ -1,0 +1,9 @@
+d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembersTests\obj\Debug\ExtractMembersTests.csprojResolveAssemblyReference.cache
+d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembersTests\bin\Debug\ExtractMembersTests.dll
+d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembersTests\bin\Debug\ExtractMembersTests.pdb
+d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembersTests\bin\Debug\ExtractMembers.dll
+d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembersTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembersTests\bin\Debug\ExtractMembers.pdb
+d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembersTests\bin\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembersTests\obj\Debug\ExtractMembersTests.dll
+d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembersTests\obj\Debug\ExtractMembersTests.pdb
