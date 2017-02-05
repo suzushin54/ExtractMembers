@@ -14,7 +14,7 @@ namespace ExtractMembers.Tests
         [TestMethod()]
         public void MainTest()
         {
-            var sampleFile = "D:\\TFS\\VBMigrationCollection\\001_Service\\10_CoolCatツール\\10_SFL提供\\10_PJWeb\\10_標準MSI\\CoolCatSetup_0000201606300100_Class\\Class\\CoolCatDataOO4OODAC\\Source\\OraDatabase.vb";
+            var sampleFile = "D:\\Shinichiro\\Documents\\Git\\sharetomato\\src\\sharetomato\\Controllers\\HomeController.cs";
             
             var em = new ExtractMembersExe();
             var rv = em.Main(sampleFile);

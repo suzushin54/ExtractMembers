@@ -4,3 +4,9 @@ d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembers\
 d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembers\bin\Debug\ExtractMembers.dll.config
 d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembers\bin\Debug\ExtractMembers.dll
 d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembers\obj\Debug\ExtractMembers.dll
+D:\Shinichiro\Documents\Git\ExtractMembers\ExtractMembers\bin\Debug\ExtractMembers.pdb
+D:\Shinichiro\Documents\Git\ExtractMembers\ExtractMembers\obj\Debug\ExtractMembers.csprojResolveAssemblyReference.cache
+D:\Shinichiro\Documents\Git\ExtractMembers\ExtractMembers\obj\Debug\ExtractMembers.pdb
+D:\Shinichiro\Documents\Git\ExtractMembers\ExtractMembers\bin\Debug\ExtractMembers.exe.config
+D:\Shinichiro\Documents\Git\ExtractMembers\ExtractMembers\bin\Debug\ExtractMembers.exe
+D:\Shinichiro\Documents\Git\ExtractMembers\ExtractMembers\obj\Debug\ExtractMembers.exe

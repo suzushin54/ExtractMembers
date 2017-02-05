@@ -7,3 +7,12 @@ d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembersT
 d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembersTests\bin\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
 d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembersTests\obj\Debug\ExtractMembersTests.dll
 d:\suzuki_s\documents\visual studio 2015\Projects\ExtractMembers\ExtractMembersTests\obj\Debug\ExtractMembersTests.pdb
+D:\Shinichiro\Documents\Git\ExtractMembers\ExtractMembersTests\bin\Debug\ExtractMembersTests.dll
+D:\Shinichiro\Documents\Git\ExtractMembers\ExtractMembersTests\bin\Debug\ExtractMembersTests.pdb
+D:\Shinichiro\Documents\Git\ExtractMembers\ExtractMembersTests\bin\Debug\ExtractMembers.dll
+D:\Shinichiro\Documents\Git\ExtractMembers\ExtractMembersTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Shinichiro\Documents\Git\ExtractMembers\ExtractMembersTests\bin\Debug\ExtractMembers.pdb
+D:\Shinichiro\Documents\Git\ExtractMembers\ExtractMembersTests\bin\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Shinichiro\Documents\Git\ExtractMembers\ExtractMembersTests\obj\Debug\ExtractMembersTests.csprojResolveAssemblyReference.cache
+D:\Shinichiro\Documents\Git\ExtractMembers\ExtractMembersTests\obj\Debug\ExtractMembersTests.dll
+D:\Shinichiro\Documents\Git\ExtractMembers\ExtractMembersTests\obj\Debug\ExtractMembersTests.pdb
